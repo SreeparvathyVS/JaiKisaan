@@ -1,0 +1,12 @@
+{
+  "name": "Ramesh Kumar",
+  "age": 45,
+  "location": {
+    "state": "Maharashtra",
+    "district": "Nashik"
+  },
+  "land_size": 5,
+  "irrigation_type": "Drip",
+  "crop_type": "Grapes",
+  "ownership": "Owned"
+}
